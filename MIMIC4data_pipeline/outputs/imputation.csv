@@ -1,0 +1,151 @@
+feat,value
+abpdia,58
+abpdia_mask,0
+abpmean,78
+abpmean_mask,0
+abpsys,118
+abpsys_mask,0
+alt-blood,32
+alt-blood_mask,0
+ast-blood,44
+ast-blood_mask,0
+braden-act_disc,4
+braden-act_mask,0
+braden-act0,0
+braden-act1,0
+braden-act2,0
+braden-fric_disc,3
+braden-fric_mask,0
+braden-fric0,0
+braden-fric1,0
+braden-mob_disc,4
+braden-mob_mask,0
+braden-mob0,0
+braden-mob1,0
+braden-mob2,0
+braden-moist_disc,4
+braden-moist_mask,0
+braden-moist0,0
+braden-moist1,0
+braden-moist2,0
+braden-nut_disc,4
+braden-nut_mask,0
+braden-nut0,0
+braden-nut1,0
+braden-nut2,0
+braden-sense_disc,4
+braden-sense_mask,0
+braden-sense0,0
+braden-sense1,0
+braden-sense2,0
+calcium free-blood,1.12
+calcium free-blood_mask,0
+calcium total-blood,8.4
+calcium total-blood_mask,0
+chloride-blood,103
+chloride-blood_mask,0
+chloride-serum,103
+chloride-serum_mask,0
+co2 total-blood,25
+co2 total-blood_mask,0
+creatinine-blood,1
+creatinine-blood_mask,0
+creatinine-serum,1
+creatinine-serum_mask,0
+fio2,40
+fio2_mask,0
+gcs-eye_disc,4
+gcs-eye_mask,0
+gcs-eye0,0
+gcs-eye1,0
+gcs-eye2,0
+gcs-motor_disc,6
+gcs-motor_mask,0
+gcs-motor0,0
+gcs-motor1,0
+gcs-motor2,0
+gcs-motor3,0
+gcs-motor4,0
+gcs-verbal_disc,5
+gcs-verbal_mask,0
+gcs-verbal0,0
+gcs-verbal1,0
+gcs-verbal2,0
+gcs-verbal3,0
+gcs-verbal4,0
+glucose-blood,129
+glucose-blood_mask,0
+glucose-serum,126
+glucose-serum_mask,0
+hco3-serum,24
+hco3-serum_mask,0
+hematocrit-blood,29.1
+hematocrit-blood_mask,0
+hematocrit-serum,28.9
+hematocrit-serum_mask,0
+hemoglobin-blood,9.7
+hemoglobin-blood_mask,0
+hr,83
+hr_mask,0
+inr,1.3
+inr_mask,0
+lactate-blood,1.7
+lactate-blood_mask,0
+nbpdia,64
+nbpdia_mask,0
+nbpmean,78
+nbpmean_mask,0
+pco2-blood,40
+pco2-blood_mask,0
+ph-blood,7.39
+ph-blood_mask,0
+ph-venous,7.38
+ph-venous_mask,0
+phosphate-blood,3.4
+phosphate-blood_mask,0
+platelet abs-blood,178
+platelet abs-blood_mask,0
+po2-blood,105
+po2-blood_mask,0
+potassium-blood,4.1
+potassium-blood_mask,0
+potassium-serum,4.1
+potassium-serum_mask,0
+pt,14.3
+pt_mask,0
+ptt,33.6
+ptt_mask,0
+rbc-blood,3.23
+rbc-blood_mask,0
+rr,19
+rr_mask,0
+sodium-blood,138
+sodium-blood_mask,0
+sodium-serum,139
+sodium-serum_mask,0
+spo2,97
+spo2_mask,0
+temp,36.8
+temp site_disc,0
+temp site_mask,0
+temp site0,0
+temp site1,0
+temp site2,0
+temp site3,0
+temp site4,0
+temp site5,0
+temp_mask,0
+urea nitrogen-blood,23
+urea nitrogen-blood_mask,0
+urine color_disc,0
+urine color_mask,0
+urine color0,0
+urine color1,0
+urine color2,0
+urine color3,0
+urine color4,0
+urine color5,0
+urine color6,0
+urine color7,0
+wbc-blood,10.4
+wbc-blood_mask,0

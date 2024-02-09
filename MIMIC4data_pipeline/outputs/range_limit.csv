@@ -1,0 +1,37 @@
+feat,max,min
+abpdia,400,0
+abpmean,400,0
+abpsys,400,0
+alt-blood,99999,0
+ast-blood,99999,0
+calcium free-blood,10000,0
+calcium total-blood,10000,0
+chloride-blood,10000,0
+chloride-serum,10000,0
+creatinine-blood,10000,0
+creatinine-serum,10000,0
+fio2,100,0
+glucose-blood,10000,0
+glucose-serum,10000,0
+hco3-serum,10000,0
+hematocrit-blood,100,0
+hematocrit-serum,100,0
+hemoglobin-blood,1000,0
+hr,500,0
+inr,1000,0
+lactate-blood,1000,0
+nbpdia,400,0
+nbpmean,400,0
+pco2-blood,1000,0
+ph-blood,14,0
+ph-venous,14,0
+platelet abs-blood,10000,0
+po2-blood,1000,0
+potassium-blood,10000,0
+potassium-serum,10000,0
+pt,3600,0
+ptt,3600,0
+sodium-blood,10000,0
+sodium-serum,10000,0
+spo2,100,0
+temp,50,0

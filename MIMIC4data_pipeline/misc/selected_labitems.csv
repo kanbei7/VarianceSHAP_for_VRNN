@@ -1,0 +1,152 @@
+itemid,label,fluid,category,newlabel
+50862,Albumin,Blood,Chemistry,Albumin
+52022,Albumin Blood,Blood,Blood Gas,Albumin
+53085,Albumin,Blood,Chemistry,Albumin
+53138,Albumin,Blood,Chemistry,Albumin
+51046,Albumin Pleural,Pleural,Chemistry,Albumin
+50863,Alkaline Phosphatase,Blood,Chemistry,Alkaline Phosphatase
+50861,Alanine Aminotransferase (ALT),Blood,Chemistry,ALT
+53084,Alanine Aminotransferase,Blood,Chemistry,ALT
+51047,Amylase Pleural,Pleural,Chemistry,Amylase
+50878,Asparate Aminotransferase (AST),Blood,Chemistry,AST
+53088,Asparate Aminotransferase,Blood,Chemistry,AST
+51440,Atypical Lymphocytes,Pleural,Hematology,Atypical Lymphocytes
+52375,Atyps#,Pleural,Hematology,Atypical Lymphocytes
+50802,Base Excess,Blood,Blood Gas,Base Excess
+51146,Basophils,Blood,Hematology,Basophils
+52069,Basophil Count Absolute,Blood,Hematology,Basophils
+51442,Basophils,Pleural,Hematology,Basophils
+52377,Basos#,Pleural,Hematology,Basophils
+50803,Calculated Bicarbonate Whole Blood,Blood,Blood Gas,Bicarbonate
+51048,Bicarbonate Pleural,Pleural,Chemistry,Bicarbonate
+50883,Bilirubin Direct,Blood,Chemistry,Bilirubin Direct
+50884,Bilirubin Indirect,Blood,Chemistry,Bilirubin Indirect
+50885,Bilirubin Total,Blood,Chemistry,Bilirubin Total
+53089,Bilirubin Total,Blood,Chemistry,Bilirubin Total
+51049,Bilirubin Total Pleural,Pleural,Chemistry,Bilirubin Total
+51148,Blasts,Blood,Hematology,Blasts
+51443,Blasts,Pleural,Hematology,Blasts
+52378,Blasts#,Pleural,Hematology,Blasts
+50808,Free Calcium,Blood,Blood Gas,Calcium Free
+51624,Free Calcium,Blood,Chemistry,Calcium Free
+50893,Calcium Total,Blood,Chemistry,Calcium Total
+52034,Total Calcium,Blood,Blood Gas,Calcium Total
+52035,Total Calcium,Blood,Blood Gas,Calcium Total
+50806,Chloride Whole Blood,Blood,Blood Gas,Chloride
+50902,Chloride,Blood,Chemistry,Chloride
+52434,Chloride Whole Blood,Blood,Blood Gas,Chloride
+52535,Chloride,Blood,Chemistry,Chloride
+51050,Chloride Pleural,Pleural,Chemistry,Chloride
+50904,Cholesterol HDL,Blood,Chemistry,Cholesterol HDL
+50905,Cholesterol LDL Calculated,Blood,Chemistry,Cholesterol LDL
+50906,Cholesterol LDL Measured,Blood,Chemistry,Cholesterol LDL
+50903,Cholesterol Ratio (Total/HDL),Blood,Chemistry,Cholesterol Ratio
+50907,Cholesterol Total,Blood,Chemistry,Cholesterol Total
+51051,Cholesterol Pleural,Pleural,Chemistry,Cholesterol Total
+50908,CK-MB Index,Blood,Chemistry,CK-MB Index
+50804,Calculated Total CO2,Blood,Blood Gas,CO2 Total
+51739,Total CO2,Blood,Chemistry,CO2 Total
+50910,Creatine Kinase (CK),Blood,Chemistry,Creatine Kinase
+50912,Creatinine,Blood,Chemistry,Creatinine
+52024,Creatinine Whole Blood,Blood,Blood Gas,Creatinine
+52546,Creatinine,Blood,Chemistry,Creatinine
+51052,Creatinine Pleural,Pleural,Chemistry,Creatinine
+50915,D-Dimer,Blood,Chemistry,D-Dimer
+51196,D-Dimer,Blood,Hematology,D-Dimer
+52551,D-Dimer,Blood,Chemistry,D-Dimer
+51199,Eosinophil Count,Blood,Hematology,Eosinophils
+51200,Eosinophils,Blood,Hematology,Eosinophils
+52073,Eosinophil Count Absolute ,Blood,Hematology,Eosinophils
+51444,Eosinophils,Pleural,Hematology,Eosinophils
+52379,Eos#,Pleural,Hematology,Eosinophils
+51202,Factor II,Blood,Hematology,Factor II
+52838,Factor II,Blood,Hematology,Factor II
+51203,Factor IX,Blood,Hematology,Factor IX
+52840,Factor IX,Blood,Hematology,Factor IX
+51204,Factor V,Blood,Hematology,Factor V
+52842,Factor V,Blood,Hematology,Factor V
+51205,Factor VII,Blood,Hematology,Factor VII
+52844,Factor VII,Blood,Hematology,Factor VII
+51206,Factor VIII,Blood,Hematology,Factor VIII
+52846,Factor VIII,Blood,Hematology,Factor VIII
+51208,Factor X,Blood,Hematology,Factor X
+52849,Factor X,Blood,Hematology,Factor X
+51209,Factor XI,Blood,Hematology,Factor XI
+52851,Factor XI,Blood,Hematology,Factor XI
+51210,Factor XII,Blood,Hematology,Factor XII
+52853,Factor XII,Blood,Hematology,Factor XII
+51211,Factor XIII,Blood,Hematology,Factor XIII
+52855,Factor XIII,Blood,Hematology,Factor XIII
+50924,Ferritin,Blood,Chemistry,Ferritin
+50809,Glucose,Blood,Blood Gas,Glucose
+50931,Glucose,Blood,Chemistry,Glucose
+52027,Glucose Whole Blood,Blood,Blood Gas,Glucose
+52569,Glucose,Blood,Chemistry,Glucose
+51053,Glucose Pleural,Pleural,Chemistry,Glucose
+50854,Hemoglobin A1c absolute,Blood,Chemistry,HA1
+50852,Hemoglobin A1c %,Blood,Chemistry,HA1c Percent
+50810,Hematocrit Calculated,Blood,Blood Gas,Hematocrit
+51221,Hematocrit,Blood,Hematology,Hematocrit
+51638,Hematocrit,Blood,Chemistry,Hematocrit
+51639,Hematocrit,Blood,Chemistry,Hematocrit
+52028,Hematocrit,Blood,Blood Gas,Hematocrit
+51445,Hematocrit Pleural,Pleural,Hematology,Hematocrit
+50811,Hemoglobin,Blood,Blood Gas,Hemoglobin
+50855,Hemoglobin Absolute,Blood,Chemistry,Hemoglobin
+51222,Hemoglobin,Blood,Hematology,Hemoglobin
+50949,Immunoglobulin A,Blood,Chemistry,IgA
+51674,Immunoglobulin E,Blood,Chemistry,IgE
+50950,Immunoglobulin G,Blood,Chemistry,IgG
+51918,Immunoglobulin G Pleural,Pleural,Chemistry,IgG
+50951,Immunoglobulin M,Blood,Chemistry,IgM
+51237,INR(PT),Blood,Hematology,INR
+51675,INR(PT),Blood,Chemistry,INR
+50812,Intubated,Blood,Blood Gas,Intubated
+50813,Lactate,Blood,Blood Gas,Lactate
+52442,Lactate,Blood,Blood Gas,Lactate
+50954,Lactate Dehydrogenase (LD),Blood,Chemistry,LD
+51054,Lactate Dehydrogenase Pleural,Pleural,Chemistry,LD
+51133,Lymphocyte Count Absolute,Blood,Hematology,Lymphocyte abs
+51244,Lymphocytes,Blood,Hematology,Lymphocyte abs
+51690,Lymphocytes,Blood,Chemistry,Lymphocyte abs
+52769,Lymphocyte Count Absolute,Blood,Hematology,Lymphocyte abs
+53132,Lymphocyte Count Absolute,Blood,Chemistry,Lymphocyte abs
+51446,Lymphocytes,Pleural,Hematology,Lymphocyte abs
+52384,Lymphs#,Pleural,Hematology,Lymphocyte abs
+51245,Lymphocytes Percent,Blood,Hematology,Lymphocyte Percent
+51256,Neutrophils,Blood,Hematology,Neutrophil abs
+51697,Neutrophils,Blood,Chemistry,Neutrophil abs
+52075,Neutrophil Count Absolute,Blood,Hematology,Neutrophil abs
+53133,Neutrophil Absolute,Blood,Chemistry,Neutrophil abs
+50816,Oxygen,Blood,Blood Gas,O2ctnt
+50818,pCO2,Blood,Blood Gas,pCO2
+50820,pH,Blood,Blood Gas,pH
+50970,Phosphate,Blood,Chemistry,Phosphate
+51265,Platelet Count,Blood,Hematology,Platelet abs
+50821,pO2,Blood,Blood Gas,pO2
+50822,Potassium Whole Blood,Blood,Blood Gas,Potassium
+50971,Potassium,Blood,Chemistry,Potassium
+52452,Potassium Whole Blood,Blood,Blood Gas,Potassium
+52610,Potassium,Blood,Chemistry,Potassium
+51057,Potassium Pleural,Pleural,Chemistry,Potassium
+51279,Red Blood Cells,Blood,Hematology,RBC
+52170,Rbc,Blood,Hematology,RBC
+51457,RBC Pleural,Pleural,Hematology,RBC
+50817,Oxygen Saturation,Blood,Blood Gas,SaO2
+50824,Sodium Whole Blood,Blood,Blood Gas,Sodium
+50983,Sodium,Blood,Chemistry,Sodium
+52455,Sodium Whole Blood,Blood,Blood Gas,Sodium
+52623,Sodium,Blood,Chemistry,Sodium
+51058,Sodium Pleural,Pleural,Chemistry,Sodium
+52948,Thrombin,Blood,Hematology,Thrombin
+51006,Urea Nitrogen,Blood,Chemistry,Urea Nitrogen
+52647,Urea Nitrogen,Blood,Chemistry,Urea Nitrogen
+51922,Urea Nitrogen Pleural,Pleural,Chemistry,Urea Nitrogen
+51007,Uric Acid,Blood,Chemistry,Uric Acid
+51923,Uric Acid Pleural,Pleural,Chemistry,Uric Acid
+50828,Ventilator,Blood,Blood Gas,Ventilator
+50827,Ventilation Rate,Blood,Blood Gas,Ventilator Rate
+51300,WBC Count,Blood,Hematology,WBC
+51301,White Blood Cells,Blood,Hematology,WBC
+51755,White Blood Cells,Blood,Chemistry,WBC
+51756,White Blood Cells,Blood,Chemistry,WBC

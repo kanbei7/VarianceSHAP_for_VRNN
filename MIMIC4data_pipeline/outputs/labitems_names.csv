@@ -1,0 +1,152 @@
+itemid,newname
+50862,Albumin-Blood
+52022,Albumin-Blood
+53085,Albumin-Blood
+53138,Albumin-Blood
+51046,Albumin-Pleural
+50863,Alkaline Phosphatase-Blood
+50861,ALT-Blood
+53084,ALT-Blood
+51047,Amylase-Pleural
+50878,AST-Blood
+53088,AST-Blood
+51440,Atypical Lymphocytes-Pleural
+52375,Atypical Lymphocytes-Pleural
+50802,Base Excess-Blood
+51146,Basophils-Blood
+52069,Basophils-Blood
+51442,Basophils-Pleural
+52377,Basophils-Pleural
+50803,HCO3-Blood
+51048,HCO3-Pleural
+50883,Bilirubin Direct-Blood
+50884,Bilirubin Indirect-Blood
+50885,Bilirubin Total-Blood
+53089,Bilirubin Total-Blood
+51049,Bilirubin Total-Pleural
+51148,Blasts-Blood
+51443,Blasts-Pleural
+52378,Blasts-Pleural
+50808,Calcium Free-Blood
+51624,Calcium Free-Blood
+50893,Calcium Total-Blood
+52034,Calcium Total-Blood
+52035,Calcium Total-Blood
+50806,Chloride-Blood
+50902,Chloride-Blood
+52434,Chloride-Blood
+52535,Chloride-Blood
+51050,Chloride-Pleural
+50904,Cholesterol HDL-Blood
+50905,Cholesterol LDL-Blood
+50906,Cholesterol LDL-Blood
+50903,Cholesterol Ratio-Blood
+50907,Cholesterol Total-Blood
+51051,Cholesterol Total-Pleural
+50908,CK-MB Index-Blood
+50804,CO2 Total-Blood
+51739,CO2 Total-Blood
+50910,Creatine Kinase-Blood
+50912,Creatinine-Blood
+52024,Creatinine-Blood
+52546,Creatinine-Blood
+51052,Creatinine-Pleural
+50915,D-Dimer-Blood
+51196,D-Dimer-Blood
+52551,D-Dimer-Blood
+51199,Eosinophils-Blood
+51200,Eosinophils-Blood
+52073,Eosinophils-Blood
+51444,Eosinophils-Pleural
+52379,Eosinophils-Pleural
+51202,Factor II-Blood
+52838,Factor II-Blood
+51203,Factor IX-Blood
+52840,Factor IX-Blood
+51204,Factor V-Blood
+52842,Factor V-Blood
+51205,Factor VII-Blood
+52844,Factor VII-Blood
+51206,Factor VIII-Blood
+52846,Factor VIII-Blood
+51208,Factor X-Blood
+52849,Factor X-Blood
+51209,Factor XI-Blood
+52851,Factor XI-Blood
+51210,Factor XII-Blood
+52853,Factor XII-Blood
+51211,Factor XIII-Blood
+52855,Factor XIII-Blood
+50924,Ferritin-Blood
+50809,Glucose-Blood
+50931,Glucose-Blood
+52027,Glucose-Blood
+52569,Glucose-Blood
+51053,Glucose-Pleural
+50854,HA1-Blood
+50852,HA1c Percent-Blood
+50810,Hematocrit-Blood
+51221,Hematocrit-Blood
+51638,Hematocrit-Blood
+51639,Hematocrit-Blood
+52028,Hematocrit-Blood
+51445,Hematocrit-Pleural
+50811,Hemoglobin-Blood
+50855,Hemoglobin-Blood
+51222,Hemoglobin-Blood
+50949,IgA-Blood
+51674,IgE-Blood
+50950,IgG-Blood
+51918,IgG-Pleural
+50951,IgM-Blood
+51237,INR-Blood
+51675,INR-Blood
+50812,Intubated-Blood
+50813,Lactate-Blood
+52442,Lactate-Blood
+50954,LD-Blood
+51054,LD-Pleural
+51133,Lymphocyte abs-Blood
+51244,Lymphocyte abs-Blood
+51690,Lymphocyte abs-Blood
+52769,Lymphocyte abs-Blood
+53132,Lymphocyte abs-Blood
+51446,Lymphocyte abs-Pleural
+52384,Lymphocyte abs-Pleural
+51245,Lymphocyte Percent-Blood
+51256,Neutrophil abs-Blood
+51697,Neutrophil abs-Blood
+52075,Neutrophil abs-Blood
+53133,Neutrophil abs-Blood
+50816,O2ctnt-Blood
+50818,pCO2-Blood
+50820,pH-Blood
+50970,Phosphate-Blood
+51265,Platelet abs-Blood
+50821,pO2-Blood
+50822,Potassium-Blood
+50971,Potassium-Blood
+52452,Potassium-Blood
+52610,Potassium-Blood
+51057,Potassium-Pleural
+51279,RBC-Blood
+52170,RBC-Blood
+51457,RBC-Pleural
+50817,SaO2-Blood
+50824,Sodium-Blood
+50983,Sodium-Blood
+52455,Sodium-Blood
+52623,Sodium-Blood
+51058,Sodium-Pleural
+52948,Thrombin-Blood
+51006,Urea Nitrogen-Blood
+52647,Urea Nitrogen-Blood
+51922,Urea Nitrogen-Pleural
+51007,Uric Acid-Blood
+51923,Uric Acid-Pleural
+50828,Ventilator-Blood
+50827,Ventilator Rate-Blood
+51300,WBC-Blood
+51301,WBC-Blood
+51755,WBC-Blood
+51756,WBC-Blood

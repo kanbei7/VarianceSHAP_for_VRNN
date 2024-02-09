@@ -1,0 +1,108 @@
+GCS_verbal(5)
+Oriented,5,00000
+No Response-ETT,1,00010
+Confused,4,10000
+No Response,1,00001
+Incomprehensible sounds,2,00100
+Inappropriate Words,3,01000
+
+
+
+GCS_Eye(3)
+Spontaneously,4,000
+To Speech,3,100
+None,1,001
+To Pain,2,010
+
+
+
+GCS_Motor(5)
+Obeys Commands,6,00000
+Localizes Pain,5,10000
+No response,1,00001
+Flex-withdraws,4,01000
+Abnormal Flexion,3,00100
+Abnormal extension,2,00010
+
+
+
+Braden_Sense(3)
+Slight Impairment, 3, 001
+No Impairment, 4, 000
+Very Limited, 2, 010
+Completely Limited, 1, 100
+
+
+Braden_Nut(3)
+Probably Inadequate, 2, 010
+Adequate, 3, 001
+Very Poor, 1, 100
+Excellent, 4, 000
+
+
+Braden_Moist(3)
+Rarely Moist, 4, 000
+Occasionally Moist, 3, 001
+Moist, 2, 010
+Consistently Moist1, 100
+
+
+
+Braden_Mob(3)
+Slight Limitations, 3, 001
+Very Limited, 2, 010
+No Limitations,4, 000
+Completely Immobile, 1, 100
+
+
+Braden_Fric(2)
+Potential Problem, 2, 01
+No Apparent Problem, 3, 00
+Problem, 1, 10
+
+
+
+Braden_Act(3)
+Bedfast, 1, 100
+Chairfast, 2, 010
+Walks Occasionally, 3, 001
+Walks Frequently, 4, 000
+
+
+
+Urine_Color(8)
+Light Yellow, 0, 00000000
+Yellow, 1, 00000001
+Amber, 2, 00000010
+Orange, 3, 00000100
+Icteric, 4, 00001000
+Pink, 5, 00010000
+Red, 6, 00100000
+Brown, 7, 01000000
+Green, 8, 10000000
+
+
+
+Temp_Site(6)
+Oral, 0, 000000
+Axillary, 1, 000001
+Blood, 2, 000010
+Temporal, 3, 000100
+Rectal, 4, 001000
+Esophogeal, 5, 010000
+Tympanic, 6, 100000
+
+
+
+AGE Group
+<35
+35 - 52
+52 - 65
+65 +
+
+
+65 -
+65 +
+
+
+RACE Group

@@ -1,0 +1,95 @@
+itemid,newname
+220051,ABPdia
+225310,ABPdia
+220052,ABPmean
+225312,ABPmean
+220050,ABPsys
+225309,ABPsys
+220574,Albumin-Blood
+227456,Albumin-Blood
+225612,Alkaline Phosphatase-Blood
+220644,ALT-Blood
+220587,AST-Blood
+224828,Base Excess-Blood
+225639,Basophils-Blood
+229361,Basophils-Blood
+225651,Bilirubin Direct-Blood
+225690,Bilirubin Total-Blood
+224056,Braden-Act
+224059,Braden-Fric
+224057,Braden-Mob
+224055,Braden-Moist
+224058,Braden-Nut
+224054,Braden-Sense
+220603,Chloride-Blood
+226536,Chloride-Blood
+220602,Chloride-serum
+220624,Cholesterol HDL-Blood
+225670,Cholesterol LDL-Blood
+225671,Cholesterol LDL-Blood
+227441,Cholesterol LDL-Blood
+229761,Creatinine-Blood
+220615,Creatinine-serum
+220612,CRP
+227444,CRP
+225636,D-Dimer-Blood
+225640,Eosinophils-Blood
+229360,Eosinophils-Blood
+223835,FiO2
+223901,GCS_Motor
+220739,GCS-Eye
+223900,GCS-Verbal
+225664,Glucose-Blood
+226537,Glucose-Blood
+220621,Glucose-serum
+224826,HCO3-serum
+227443,HCO3-serum
+226540,Hematocrit-Blood
+220545,Hematocrit-serum
+220228,Hemoglobin-Blood
+220045,HR
+220561,INR
+227467,INR
+225668,Lactate-Blood
+220632,LD-Blood
+225641,Lymphocyte abs-Blood
+229358,Lymphocyte abs-Blood
+220635,Magnesium
+229359,Monos-Blood
+220180,NBPdia
+224643,NBPdia
+227242,NBPdia
+220181,NBPmean
+224167,NBPsys
+227243,NBPsys
+225643,Neutrophil abs-Blood
+229355,Neutrophil abs-Blood
+229357,Neutrophil abs-Blood
+220235,pCO2-Blood
+223830,PH-arterial
+220274,PH-venous
+225678,Platelet abs-Blood
+227457,Platelet abs-Blood
+220224,pO2-Blood
+226535,Potassium-Blood
+227464,Potassium-Blood
+220640,Potassium-serum
+227442,Potassium-serum
+227465,PT
+227466,PTT
+220210,RR
+224690,RR
+220227,SaO2
+226534,Sodium-Blood
+220645,Sodium-serum
+227428,SOFA
+227471,Specific Gravity-Urine
+220277,SpO2
+229862,SpO2
+223761,Temp
+223762,Temp
+224642,Temp Site
+227469,Thrombin-Blood
+225695,Uric Acid-Blood
+224016,Urine Color
+220546,WBC-Blood
